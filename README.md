@@ -38,3 +38,15 @@ Danh sách thành viên nhóm:
     *   Kiểm thử chấp nhận doanh nghiệp
     *   Kiểm thử Alpha
     *   Kiểm thử Beta
+3.  #### Stability Testing
+
+    - Khái niệm: Stability Testing Là kỹ thuật test nhằm xác minh sự ổn định của phần mềm qua việc kiểm tra khả năng chạy liên tục của ứng dụng trong hoặc hơn khoảng thời gian có thể chấp nhận được. Đây là 1 kỹ thuật non-functional, với mục đích đòi hỏi khả năng chịu tải của phần mềm tới mức tối đa. Trong quá trình xác định nó hoạt động tốt thế nào dưới tải ở mức chấp nhận được, mức đỉnh, các tải được tạo ra đột ngột, với số lượng dữ liệu lớn được xử lý… Stability testing được thực hiện để kiểm tra hiệu quả của 1 sản phẩm được phát triển vượt qua mức hoạt động bình thường, hay tới 1 điểm dừng. Có ý nghĩa quan trọng hơn là trong việc xử lý lỗi, độ tin cậy của phần mềm, khả năng chịu tải và khả năng mở rộng của 1 sản phẩm dưới tải lớn chứ không phải là kiểm tra cách hoạt động của hệ thống trong các hoàn cảnh bình thường.
+
+    Stability testing còn được gọi là Load hoặc endurance testing.
+
+    Stability testing cho phép bạn kiểm tra:
+
+    *   Ước lượng độ tin cậy trong sự ổn định của hệ thống của bạn đang thử nghiệm
+    *   Đảm bảo rằng hệ thống của bạn có thể xử lý các chương trình lớn
+    *   Theo dõi hiệu quả của hệ thống của bạn
+    *   Kiểm tra hệ thống ổn định theo yêu cầu
