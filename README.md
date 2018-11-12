@@ -1,6 +1,5 @@
 # Quản trị dự án CNTT
 
-
 ###### Nhóm 21
 
 Danh sách thành viên nhóm:
@@ -8,7 +7,6 @@ Danh sách thành viên nhóm:
 *   Nguyễn Ngọc Thành
 *   Nguyễn Văn Thành
 *   Nguyễn Đình Tuyên
-
 
 1.  #### Unit Test
 
@@ -28,3 +26,15 @@ Danh sách thành viên nhóm:
     *   Phát hiện những hàm chạy chậm và không hiệu quả thông qua thời gian chạy của Unit Test.
     *   Tăng sự tự tin khi code, vì đã có Unit Test phát hiện lỗi.
     *   Khi refactor code, sửa code hay thêm chức năng mới, **Unit Test đảm bảo chương trình chạy đúng**, phát hiện những lỗi tiềm tàng mà ta bỏ lỡ.
+2.  #### Acceptance Test
+
+    - Khái niệm: <u>Acceptance Testing</u> - Kiểm thử chấp nhận, là một kỹ thuật kiểm thử được thực hiện để xác định hệ thống phần mềm có đạt được những yêu cầu kỹ thuật hay không.
+
+    - Mục đích: Để đánh giá hệ thống với những yêu cầu của doanh nghiệp và xác nhận nếu hệ thống đáp ứng được những tiêu chí yêu cầu để chuyển đến người dùng cuối.
+
+    Kiểm thử chấp nhận có nhiều dạng như sau:
+
+    *   Kiểm thử chấp nhận người dùng
+    *   Kiểm thử chấp nhận doanh nghiệp
+    *   Kiểm thử Alpha
+    *   Kiểm thử Beta
